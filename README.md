@@ -1,6 +1,7 @@
 # MacOs Workflow
 
 * Open on VSCode (Files and Folders)
+** Requires: Visual Studio Code installed
 
 > ### Install
 > 1. Open Realeases
