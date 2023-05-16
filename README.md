@@ -2,7 +2,7 @@
 
 * Open on VSCode (Files and Folders)
 
-> ### Usage
+> ### Install
 > 1. Open Realeases
 > 2. Chosse your workflow zip
 > 3. unzip workflow downloded
