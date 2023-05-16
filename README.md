@@ -1,2 +1,2 @@
 # MacOs-Workflow
-My personals macOS workflows
+## My personal macOS workflows
