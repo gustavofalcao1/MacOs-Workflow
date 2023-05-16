@@ -1,6 +1,6 @@
 # MacOs Workflow
 
-* # Open on VSCode (Files and Folders)
+* #### Open on VSCode (Files and Folders)
 * Requires: Visual Studio Code installed
 
 > ### Install
