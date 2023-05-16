@@ -1,4 +1,3 @@
-# MacOs-Workflow
-## My personal macOS workflows
+# MacOs Workflow
 
 * Open on VSCode (Files and Folders)
