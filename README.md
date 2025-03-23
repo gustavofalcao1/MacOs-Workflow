@@ -1,34 +1,59 @@
-# MacOs Workflow
+# 🍎 MacOS Workflow
 
-## Workflows list
-<table>
-  <thead>
-    <tr>
-      <th align="left">Workflow</th>
-      <th align="left">Requires</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">Open on VSCode (Files and Folders)</td>
-      <td align="left">Visual Studio Code installed</td>
-    </tr>
-    <tr>
-      <td align="left">Mount EFI (Volumes)</td>
-      <td align="left"></td>
-    </tr>
-  </tbody>
-</table>
+A repository for useful MacOS workflows designed to simplify and enhance your productivity. Quickly access functionalities such as opening files or folders in VSCode or easily mounting EFI volumes directly from your Finder context menu.
 
-## Guide
-### Install
-> 1. Open Realeases
-> 2. Chosse your workflow zip
-> 3. unzip workflow downloded
-> 4. Double click on file_name.workflow
+---
 
-### Usage
-> 1. Right click on target
-> 2. Hover mouse on "Quick Actions"
-> 3. Click in your workflow
-> 4. Wait for expected action
+## 📋 Workflow List
+
+| Workflow                         | Requirements                 |
+|----------------------------------|------------------------------|
+| Open in VSCode (Files & Folders) | Visual Studio Code installed |
+| Mount EFI (Volumes)              | None                         |
+
+---
+
+## 🚀 Installation Guide
+
+1. Navigate to [Releases](https://github.com/gustavofalcao1/MacOs-Workflow/releases).
+2. Choose the workflow `.zip` file you wish to download.
+3. Unzip the downloaded file.
+4. Double-click the extracted `.workflow` file to install.
+
+---
+
+## 🖱️ Usage Guide
+
+1. Right-click on the desired file, folder, or volume.
+2. Hover your mouse over **"Quick Actions"**.
+3. Select your installed workflow.
+4. The action will execute automatically.
+
+---
+
+## 🤝 Contributing
+
+Contributions and suggestions for new workflows are welcome:
+
+1. Fork the repository
+2. Create your branch (`git checkout -b feature/feature-name`)
+3. Commit your changes (`git commit -m 'Add feature-name'`)
+4. Push your changes (`git push origin feature/feature-name`)
+5. Open a Pull Request
+
+---
+
+## 📄 License
+
+Licensed under the **MIT License**.
+
+---
+
+## 👤 Author
+
+**Gustavo Falcão**  
+[GitHub @gustavofalcao1](https://github.com/gustavofalcao1)  
+[Project Repository](https://github.com/gustavofalcao1/MacOs-Workflow)
+
+---
+
